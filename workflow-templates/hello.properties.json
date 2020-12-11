@@ -3,7 +3,7 @@
     "description": "Xbits on frvr CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go", 'Hello"
+        "Go"
     ],
     "filePatterns": [
         "package.json$",
